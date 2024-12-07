@@ -26,6 +26,7 @@ This project focuses on analyzing and visualizing sales and operational data for
 
 ---
 
-## Screenshots
-![Excel Dashboard Screenshot](Screenshot (72))
+## Project snips:
+
+![Screenshot (72)](https://github.com/user-attachments/assets/9eec507e-a124-4763-a661-3a34bfcbe864)
 
